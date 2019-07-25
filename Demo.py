@@ -53,3 +53,4 @@ else:
 var1="orchid"
 for x in var1:
     print(x)
+    print("hello")
