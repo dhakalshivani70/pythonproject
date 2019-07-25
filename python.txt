@@ -1,0 +1,8 @@
+Data Structure
+    types-
+	list(multiple data contain garca)
+	tuple
+	set
+	Dictionary
+mutable-list tuple
+immutable-int,string,
